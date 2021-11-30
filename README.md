@@ -12,7 +12,9 @@ Here are some of my most interesting open source projects on GitHub:
 - 🐳 [Container Immersion](https://github.com/mkasberg/container-immersion) is a
   Docker tutorial I maintain.
 - I've made minor contributions to some popular open source projects including
-  [phpunit](https://github.com/sebastianbergmann/phpunit) and
-  [jekyll](https://github.com/jekyll/jekyll)
+  [phpunit](https://github.com/sebastianbergmann/phpunit/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged)
+  and [jekyll](https://github.com/jekyll/jekyll/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged)
+
+🐦 Find me on Twitter [@mike_kasberg](https://twitter.com/mike_kasberg).
 
 📝 I write a blog at <https://www.mikekasberg.com>.
