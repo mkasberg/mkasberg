@@ -13,7 +13,7 @@ Here are some of my most interesting open source projects on GitHub:
   Docker tutorial I maintain.
 - I've made minor contributions to some popular open source projects including
   [phpunit](https://github.com/sebastianbergmann/phpunit/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged)
-  and [jekyll](https://github.com/jekyll/jekyll/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged)
+  and [jekyll](https://github.com/jekyll/jekyll/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged).
 
 🐦 Find me on Twitter [@mike_kasberg](https://twitter.com/mike_kasberg).
 
