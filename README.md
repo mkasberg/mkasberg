@@ -11,11 +11,11 @@ Here are some of my most interesting open source projects on GitHub:
   I maintain that provides boilerplate in many different scripting languages.
 - 🐳 [Container Immersion](https://github.com/mkasberg/container-immersion) is a
   Docker tutorial I maintain.
-- I've made minor contributions to some popular open source projects including
+- :octocat: I've made minor contributions to some popular open source projects including
   [jekyll/classifier-reborn](https://github.com/jekyll/classifier-reborn/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged),
   [jekyll](https://github.com/jekyll/jekyll/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged),
   and [phpunit](https://github.com/sebastianbergmann/phpunit/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged).
-- I've recently gotten into 3D printing, and I share some of my
+- 🏗️ I've recently gotten into 3D printing, and I share some of my
   [OpenSCAD](https://openscad.org/) creations here on GitHub. Check out my [3D
   Logo](https://github.com/mkasberg/3d-logo) and [3D Photo
   Frame](https://github.com/mkasberg/3d-photo-frame).
