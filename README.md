@@ -7,6 +7,8 @@ Here are some of my most interesting open source projects on GitHub:
 - 🛠️ My [dotfiles](https://github.com/mkasberg/dotfiles) are public and I've put
   a lot of effort into making them work well for me. Maybe there are some tricks
   in there that would work well for you too!
+- 🪄 [jekyll_ai_related_posts](https://github.com/mkasberg/jekyll_ai_related_posts)
+  is a Jekyll plugin that improves the related_posts feature using AI.
 - 🌱 [Script Seed](https://github.com/mkasberg/script-seed/) is a small project
   I maintain that provides boilerplate in many different scripting languages.
 - 🐳 [Container Immersion](https://github.com/mkasberg/container-immersion) is a
