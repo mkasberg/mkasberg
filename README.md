@@ -7,6 +7,8 @@ Here are some of my most interesting open source projects on GitHub:
 - 🛠️ My [dotfiles](https://github.com/mkasberg/dotfiles) are public and I've put
   a lot of effort into making them work well for me. Maybe there are some tricks
   in there that would work well for you too!
+- 👻 [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) is a
+  community-maintained Ubuntu (.deb) package of [Ghostty](https://ghostty.org).
 - 🪄 [jekyll_ai_related_posts](https://github.com/mkasberg/jekyll_ai_related_posts)
   is a Jekyll plugin that improves the related_posts feature using AI.
 - 🌱 [Script Seed](https://github.com/mkasberg/script-seed/) is a small project
@@ -20,6 +22,7 @@ Here are some of my most interesting open source projects on GitHub:
   and [phpunit](https://github.com/sebastianbergmann/phpunit/pulls?q=is%3Apr+author%3Amkasberg+is%3Amerged).
 - 🏗️ I've recently gotten into 3D printing, and I share some of my
   [OpenSCAD](https://openscad.org/) creations here on GitHub. Check out my [3D
+  GPX Figurines](https://github.com/mkasberg/3d-gpx-figurines), [3D
   Logo](https://github.com/mkasberg/3d-logo) and [3D Photo
   Frame](https://github.com/mkasberg/3d-photo-frame).
 
