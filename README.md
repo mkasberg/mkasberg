@@ -1,6 +1,6 @@
 ## Hi, I'm Mike 👋
 
-I work for [Strava](https://github.com/strava) as a senior software engineer.
+I work for [Strava](https://github.com/strava) as a staff software engineer.
 
 Here are some of my most interesting open source projects on GitHub:
 
